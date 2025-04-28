@@ -76,7 +76,7 @@ requirements.txt          # Python dependencies
 README.md                 # Project overview and instructions
 /data                     # Folder containing training, test, and results CSVs
 /visuals                  # Folder containing result plots and evaluation figures
-/slides                   # (Optional) Presentation slides for project defense
+/slides                   # Presentation slides
 ```
 
 ## Acknowledgements
