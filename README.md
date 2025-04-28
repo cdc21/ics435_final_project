@@ -84,4 +84,19 @@ README.md                 # Project overview and instructions
 - Kaggle for hosting the original competition dataset.
 - Libraries used: Scikit-Learn, LightGBM, XGBoost, CatBoost, PyTorch, Optuna, and Scikit-Optimize.
 
+## Authors and Contributions
+
+- **Christian Dela Cruz**  
+Led the development of all linear regression models (Linear, Ridge, Lasso), the full MLP model pipeline including hyperparameter tuning, optimizer selection, and model ensembling.  
+Also created the final ensemble strategies (Tree Ensemble, Full Stacked Ensemble), aggregated all project components, wrote the full final report, and organized the complete GitHub repository.
+
+- **Kyler Okuma**  
+Developed the CatBoost model, tuned hyperparameters, and generated comparison visualizations between model types.  
+Contributed a mini write-up for the CatBoost model, which was incorporated into the final report.
+
+- **Sean Flynn**  
+Trained the LightGBM and XGBoost models, including the best-performing LightGBM variant using hyperparameter optimization.  
+Provided a written summary for the LightGBM modeling approach, which was incorporated in the final report.
+
+All authors participated in discussions regarding project direction, model evaluation, and final presentation preparation.
 ---
