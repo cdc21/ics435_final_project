@@ -1,5 +1,6 @@
-# ics435_final_project
+# ICS435 Final Project
 ICS435 Machine Learning Project - Kaggle Predict Podcast Listening TImes
+By: Christian Dela Cruz, Kyler Okuma, Sean Flynn
 
 # Podcast Listening Time Prediction
 
