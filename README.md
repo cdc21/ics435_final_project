@@ -40,8 +40,8 @@ Python 3.10 or higher is recommended for full compatibility.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/podcast-listening-time.git
-cd podcast-listening-time
+git clone https://github.com/cdc21/ics435_final_project.git
+cd ics435_final_project
 ```
 
 Install the required libraries:
